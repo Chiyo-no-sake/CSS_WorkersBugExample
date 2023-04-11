@@ -1,0 +1,19 @@
+{
+  "name": "css_workersbugexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inrupt/solid-client": "^1.26.0",
+    "@inrupt/solid-client-authn-core": "^1.14.0",
+    "@inrupt/solid-client-authn-node": "^1.14.0",
+    "node-fetch": "^3.3.1"
+  }
+}

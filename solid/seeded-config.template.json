@@ -1,0 +1,7 @@
+[
+  {
+    "podName": "mcg-admin-pod",
+    "email": "${MCG_ADMIN_WEBID_EMAIL}",
+    "password": "${MCG_ADMIN_WEBID_PASSWORD}"
+  }
+]
