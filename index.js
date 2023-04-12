@@ -169,7 +169,7 @@ function runPX(x) {
 }
 
 /* 
- * start X sequences of requests for 2 different users, in parallel:
+ * start 3 sequences of requests for 3 different users, in parallel:
   * - create pod
   * - login
   * - find storage
